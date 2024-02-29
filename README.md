@@ -8,7 +8,7 @@ $ git clone https://github.com/ayra-alamdar/PDC-Cluster-Setup.git ==> no need to
 
 $ cd PDC-Cluster-Setup
 
-$ cd cluster/project
+$ cd cluster
 
 $ ./cluster.sh up size=4
 in this size is the number of slaves your want they can be 4 top till 100 :)
